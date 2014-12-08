@@ -1,0 +1,25 @@
+{
+  "name": "node-reset-scss",
+  "version": "1.0.0",
+  "description": "Node package for including Eric Meyer's reset css as a sass partial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JakeElder/node-reset-scss.git"
+  },
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "reset"
+  ],
+  "author": "Jake Elder",
+  "license": "none (public domain)",
+  "bugs": {
+    "url": "https://github.com/JakeElder/node-reset-scss/issues"
+  },
+  "homepage": "https://github.com/JakeElder/node-reset-scss"
+}
