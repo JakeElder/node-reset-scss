@@ -1,6 +1,6 @@
 {
   "name": "node-reset-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node package for including Eric Meyer's reset css as a sass partial",
   "main": "index.js",
   "scripts": {
